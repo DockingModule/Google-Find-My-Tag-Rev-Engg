@@ -1,0 +1,15 @@
+*-backups/
+*.kicad_prl
+*.bak
+*-bak
+*_autosave-*
+~*.lck
+fp-info-cache
+*.net
+gerbers/
+*.gbr
+*.drl
+*.hex
+*.bin
+Thumbs.db
+.DS_Store
